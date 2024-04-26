@@ -2,7 +2,7 @@
 ---
 # Professional Studios Website
 
-![Professional Studios Logo](assets/logo-dark.png)
+![Professional Studios Logo](assets/logo-white.png)
 
 Welcome to the documentation for the Professional Studios website. This repository contains the code for a professional photography studio's website, showcasing their portfolio, services, client testimonials, and more.
 
