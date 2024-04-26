@@ -1,5 +1,3 @@
-# Professional-Studios
----
 # Professional Studios Website
 
 ![Professional Studios Logo](assets/logo-white.png)
